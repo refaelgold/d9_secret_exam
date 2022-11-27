@@ -1,0 +1,6 @@
+name: Israel Innovation Exam Module
+type: module
+description: 'Israel Innovation Exam Module made for showing basic drupal development skills.'
+package: Nir Goldman
+version: 1.0
+core_version_requirement: ^9

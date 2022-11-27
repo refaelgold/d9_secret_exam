@@ -1,0 +1,7 @@
+israel_innovation_exam_module.module:
+  path: '/exam/page'
+  defaults:
+    _controller: '\Drupal\israel_innovation_exam_module\Controller\ExamController::content'
+    _title: 'Israel Innovation Exam'
+  requirements:
+    _permission: 'access content'
